@@ -2,8 +2,8 @@ from customer import Customer
 from coffee import Coffee
 from order import Order
 
-c1 = Customer("Oscar")
-c2 = Customer("Ivy")
+c1 = Customer("Praise")
+c2 = Customer("Victoria")
 
 latte = Coffee("Latte")
 cappuccino = Coffee("Cappuccino")
